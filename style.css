@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    width: 50%;
+    margin: auto;
+    height: 730px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+
+}
+.icon{
+
+}
+.icon i{
+    font-size: 70px;
+    display: flex;
+    justify-content: space-around;
+    color: #219EEE;
+    
+}
+.icon h1{
+    width: 100%;
+    text-align: center;
+    color: #202020;
+    margin: 20px 0px;
+}
+.email_pass{
+
+}
+.login{
+
+}
+.footer{
+
+}
+.email_pass input[type="password"] {
+    background: #e9ecef;
+    width: 100%;
+    height: 40px;
+    outline: none;
+    font-size: 20px;
+    border: none;
+    margin: 30px 0px;
+    padding: 20px 10px;
+}
+.email_pass input[type="text"] {
+    background: #e9ecef;
+    width: 100%;
+    height: 40px;
+    outline: none;
+    font-size: 20px;
+    border: none;
+    padding: 20px 10px;
+}
+
+
+
+.email_pass input[type="submit"] {
+    background: #219EEE;
+    width: 104%;
+    height: 70px;
+    outline: none;
+    font-size: 20px;
+    border: none;
+    margin: 30px 0px;
+    color: #fff;
+    cursor: pointer;
+}
+.footer {
+    width: 100%;
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+    color: #219EEE;
+    font-weight: 700;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
